@@ -20,6 +20,13 @@
 - ⚡ Fun fact **I am funny**
 
 <br/>
+<h3 align="center">My interests</h3>
+<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines=Artificial+Intelligence;Machine+Learning;Full+Stack+Development" alt="Typing SVG" />
+</p>
+
+<br/>
 <hr/>
 
 <h3 align="left">Connect with me:</h3>
@@ -69,7 +76,6 @@
         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
         </a>
-         <br/>
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/>
         </a>
@@ -91,11 +97,27 @@
         <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="80" height="80"/>
         </a>
+<hr/>
+
+<br/>
+<p align="center">
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanMehmood413&hide_border=true&theme=transparent" /> 
+</p>
+
+<br/>
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HassanMehmood413&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HassanMehmood413&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HassanMehmood413&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HassanMehmood413&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HassanMehmood413&theme=transparent" height="180em" alt="Commitments"/>
+</div>
     
 <br/>
 <hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HassanMehmood413&show_icons=true&theme=radical" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" /></p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanmehmood413&" alt="hassanmehmood413" /></p>
+<hr/>
