@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanmehmood413&label=Profile%20views&color=0e75b6&style=flat" alt="hassanmehmood413" /> </p>
 
-<p align="left"> <a href="https://twitter.com/h_legions" target="blank"><img src="https://img.shields.io/twitter/follow/h_legions?logo=twitter&style=for-the-badge" alt="h_legions" /> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/hassan-mehmood-01a3a9247/" target="blank"><img src="https://img.shields.io/twitter/follow/h_legions?logo=twitter&style=for-the-badge" alt="h_legions" /> </a> </p>
 
 - 🌱 I’m currently learning **DSA And MERN Stack**
 
