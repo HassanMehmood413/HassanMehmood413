@@ -1,123 +1,118 @@
+<!-- <a href="https://github.com/arhamansari11">
+    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=arhamansari11&data=followers,repositories,stars,commits&theme=nautilus">
+</a> -->
 
-<h1 align="center">Hi 👋, I'm Hassan Mehmood</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan 💻</h3>
-<img align=" right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+# Top [![committers.top badge](https://user-badge.committers.top/pakistan/HassanMehmood413.svg)](https://user-badge.committers.top/pakistan/HassanMehmood413)th Pakistani Github Contributor.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanmehmood413&label=Profile%20views&color=0e75b6&style=flat" alt="hassanmehmood413" /> </p>
+# Software Engineer 🖥️.
 
-<p align="left"> <a href="https://www.linkedin.com/in/hassan-mehmood-01a3a9247/" target="blank"><img src="https://img.shields.io/twitter/follow/h_legions?logo=twitter&style=for-the-badge" alt="h_legions" /> </a> </p>
+<!-- [![LeetCode user HassanMehmood413](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farham_ansari11&logo=leetcode&logoColor=yellow)](https://leetcode.com/arham_ansari11/)
 
-- 🌱 I’m currently learning **DSA And MERN Stack**
+-->
 
-- 🌱 I’m also a Student at Unversity of Agriculture Faisalabad 
 
-- 💬 Ask me about **Front-end Development, DSA ,Leetcode**
+<!-- Bio -->
+- **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan, ranking **[5th](https://committers.top/pakistan#HassanMehmood413)**.
+- **@[LeetCode](https://leetcode.com/HassanMehmood413)** Solved 250+ Data Structures & Algorithms problems.
+- **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Provided training on Data Structures and Algorithms (DSA).
+- **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Delivered engaging workshops on Git, GitHub fundamentals, and mastering hackathons.**[PlayList](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)**.
+- **@lablab.ai**: [Competed](https://lablab.ai/u/@hassan_mehmood517) in multiple international AI hackathons as part with a team of 6 international members.
+- **@[Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7235577009546887168/)** More than 65 WPM.
 
-- 📫 How to reach me **ihassan463m@gmail.com**
-  
-- 📫 Feel Free To ask me about any help
+#
 
-- ⚡ Fun fact **I am funny**
+## My Skill Set 🛠️:
 
-<br/>
-<h3 align="center">My interests</h3>
-<br/>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines=Artificial+Intelligence;Machine+Learning;Full+Stack+Development" alt="Typing SVG" />
-</p>
+<table><tr><td valign="top" width="25%">
 
-<br/>
-<hr/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="center" >
-<a href="https://dev.to/hassan_hassanmehmood_46e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hassan_hassanmehmood_46e" height="50" width="70" /></a>
-<a href="https://twitter.com/h_legions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h_legions" height="50" width="70" /></a>
-<a href="https://linkedin.com/in/hassan-mehmood-01a3a9247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-mehmood-01a3a9247" height="50" width="70" /></a>
-<a href="https://instagram.com/hassan.m__143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan.m__143" height="50" width="70" /></a>
-<a href="https://www.leetcode.com/hassan_leigons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hassan_leigons" height="50" width="70" /></a>
-</p>
-<br/>
-<hr/>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<br/>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/>
-        </a>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/>
-        </a>
-            <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-            <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="80" height="80"/>
-        </a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
-        </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
-        </a>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/>
-        </a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/>
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/>
-        </a>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/>
-        </a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
-        </a>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/>
-        </a>
-         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/>
-        </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
-        </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
-        </a>
-        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="80" height="80"/>
-        </a>
-        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80"/>
-        </a>
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="80" height="80"/>
-        </a>
-<hr/>
-
-<br/>
-<p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanMehmood413&hide_border=true&theme=transparent" /> 
-</p>
-
-<br/>
-<div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HassanMehmood413&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HassanMehmood413&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HassanMehmood413&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HassanMehmood413&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HassanMehmood413&theme=transparent" height="180em" alt="Commitments"/>
+### Frontend  
+<a href="https://github.com/HassanMehmood413">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react&perline=4" /> 
 </div>
-    
-<br/>
-<hr/>
+</a>
 
+    
+### Languages
+<a href="https://github.com/HassanMehmood413">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=js,cpp,c,python,&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/HassanMehmood413">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,discord,stackoverflow,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
+
+ ## Connect with me🤝:
+<div align="center">
+    <a href="https://www.linkedin.com/in/hassan-mehmood-01a3a9247/" target="_blank"><img src="https://img.shields.io/badge/-Hassan%20Mehmood-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:ihassan463m@gmail.com"><img src="https://img.shields.io/badge/-ihassan463m@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/Hassan_Leigons/" target="_blank"><img src="https://img.shields.io/badge/-Hassan%20Mehmood-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href="https://lablab.ai/u/@hassan_mehmood517" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
+</div>
+
+
+
+ ## Github Stats📈:
+<p align="center">
+    <a href="https://github.com/HassanMehmood413">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HassanMehmood413&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HassanMehmood413&langs_count=12&layout=compact&langs_count=8&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+
+
+
+ <p align="center">
+   <a href="https://github.com/HassanMehmood413"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanMehmood413&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /> 
+   </a>  
+ </p>
+
+<br>
+
+#
+
+<!-- <div align="center">
+  <a href="https://github.com/HassanMehmood413">
+    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
+  </a>
+ </div> -->
+
+## COMPLETED INTERNATIONAL HACKATHONS🥇:
+
+<p float="left">
+  <a href="https://lablab.ai/event/ibm-watsonx-challenge/blue-mind-hackers/techease" target="_blank">
+    <img src="https://storage.googleapis.com/lablab-static-eu/images/events/clyyg9s36000f357erj4ytsnm/clyyg9s36000f357erj4ytsnm_imageLink_143zw03r1.jpg" width="390">
+  </a>
+  <a href="https://github.com/HassanMehmood413/GenAi_Hackathon-back-">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF11OYYBSFzygPE3sSBNAZtFGsy_7tMUk2nw&s" width="400">
+  </a>
+ 
+  <!-- &nbsp; &nbsp;
+   &nbsp; &nbsp;
+  <a href="https://lablab.ai/event/ai-agents-hackathon-2/viral-cuts/viral-clips">
+     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/62cf67c7-6df6-4337-809a-8fd2e102b748" width="400">
+  </a>
+   &nbsp; &nbsp;
+  <a href="https://lablab.ai/event/monday-ai-app-hackathon/simons-strike-team/monday-ai-assistant">
+     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/cb2e560f-5ac1-45a2-ada8-ea7681b7be34" width="400">
+  </a> -->
+</p>
+
+<hr/>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
 </p>
 
+
 <hr/>
+
