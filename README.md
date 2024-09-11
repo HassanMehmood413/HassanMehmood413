@@ -14,6 +14,7 @@
 <!-- Bio -->
 - **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan.
 - **@[LeetCode](https://leetcode.com/u/Hassan_Leigons/)** Solved 350+ Data Structures & Algorithms problems.
+- **@[Lablab](https://lablab.ai/event)** 3x International Hackathon Participant & 1x National Hackathon Participant.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Provided training on Data Structures and Algorithms (DSA).
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Delivered engaging workshops on Git, GitHub fundamentals, and mastering hackathons.**[PlayList](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)**.
 - **@lablab.ai**: [Competed](https://lablab.ai/u/@hassan_mehmood517) in multiple international AI hackathons as part with a team of 6 international members.
@@ -96,16 +97,10 @@
   <a href="https://github.com/HassanMehmood413/GenAi_Hackathon-back-">
      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF11OYYBSFzygPE3sSBNAZtFGsy_7tMUk2nw&s" width="400">
   </a>
- 
-  <!-- &nbsp; &nbsp;
-   &nbsp; &nbsp;
-  <a href="https://lablab.ai/event/ai-agents-hackathon-2/viral-cuts/viral-clips">
-     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/62cf67c7-6df6-4337-809a-8fd2e102b748" width="400">
-  </a>
-   &nbsp; &nbsp;
-  <a href="https://lablab.ai/event/monday-ai-app-hackathon/simons-strike-team/monday-ai-assistant">
-     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/cb2e560f-5ac1-45a2-ada8-ea7681b7be34" width="400">
-  </a> -->
+  <a href="https://github.com/umarwar/TechEase">
+     <img src="https://i.ibb.co/5WJ62Rp/Screenshot-2024-09-11-110157.png" alt="Screenshot-2024-09-11-110157"width="400">
+  </a
+
 </p>
 
 <hr/>
