@@ -16,7 +16,7 @@
 - **@[LeetCode](https://leetcode.com/u/Hassan_Leigons/)** Solved 350+ Data Structures & Algorithms problems.
 - **@[Lablab](https://lablab.ai/event)** 3x International Hackathon Participant & 1x National Hackathon Participant.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Provided training on Data Structures and Algorithms (DSA).
-- **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Delivered engaging workshops on Git, GitHub fundamentals, and mastering hackathons.**[PlayList](https://github.com/arhamansari11/Volunteer_Teaching_Recordings/)**.
+- **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Delivered engaging workshops on Git, GitHub fundamentals, and mastering hackathons.
 - **@lablab.ai**: [Competed](https://lablab.ai/u/@hassan_mehmood517) in multiple international AI hackathons as part with a team of 6 international members.
 - **@[Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7235577009546887168/)** More than 65 WPM.
 
