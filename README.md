@@ -49,8 +49,8 @@
        <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,netlify,vite,vercel,discord,stackoverflow,vscodeqt&perline=4" /> 
 </div>
 </a>
-</td>
-</tr></table>
+</td> 
+<!-</tr></table>
 
  ## Connect with me🤝:
 <div align="center">
