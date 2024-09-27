@@ -98,10 +98,10 @@
      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF11OYYBSFzygPE3sSBNAZtFGsy_7tMUk2nw&s" width="390">
   </a>
   <a href="https://github.com/umarwar/TechEase">
-     <img src="https://i.ibb.co/5WJ62Rp/Screenshot-2024-09-11-110157.png" alt="Screenshot-2024-09-11-110157"width="390">
+     <img src="https://i.ibb.co/5WJ62Rp/Screenshot-2024-09-11-110157.png" width="390">
   </a
    <a href="https://github.com/danishmustafa86/AI-AGENT">
-     <img src="https://ibb.co/SPtPB9t"><img src="https://i.ibb.co/Xb7btv7/Screenshot-2024-09-16-072758.png" alt="Screenshot-2024-09-18-110157"width="390">
+     <img src="https://i.ibb.co/Xb7btv7/Screenshot-2024-09-16-072758.png" width="390">
   </a
 
 </p>
