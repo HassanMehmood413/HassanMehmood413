@@ -13,7 +13,7 @@
 
 <!-- Bio -->
 - **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan.
-- **@[LeetCode](https://leetcode.com/u/Hassan_Leigons/)** Solved 350+ Data Structures & Algorithms problems.
+- **@[LeetCode](https://leetcode.com/u/Hassan_Leigons/)** Solved 400+ Data Structures & Algorithms problems.
 - **@[Lablab](https://lablab.ai/event)** 4x International Hackathon Participant.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Provided training on Data Structures and Algorithms (DSA).
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Delivered engaging workshops on Git, GitHub fundamentals, and mastering hackathons.
