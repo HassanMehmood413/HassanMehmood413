@@ -64,7 +64,7 @@
 - If you want to see how I provide training to my students @ICODEGURU, have a look → **[**👀**](https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view)**.
 - **@[iCodeGuru](https://docs.google.com/spreadsheets/d/1pFgYTINa8UvwjXza8UkaSrelRbJes-bH/edit?gid=1332900718#gid=1332900718)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@hassan_mehmood517) in multiple AI International Hackathons with a global team of six.
-- **@Meta**: Participated in Meta Hacker Cup 2024, have a look → **[**👀**](https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view)**.
+- **@Meta**: Participated in Meta Hacker Cup 2024, have a look → **[**👀**](https://github.com/HassanMehmood413/Meta_Hacker_Cup-2024-)**.
 puzzles.
 <!-- - 📫 How to reach me **ahmadjajja86@gmail.com** -->
 
