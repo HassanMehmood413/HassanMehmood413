@@ -1,5 +1,5 @@
 
-# Software Engineer & Tech Trainer [![Hits](https://hits.sh/github.com/Ahmadjajja.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c)](https://hits.sh/github.com/HassanMehmood413/) 
+# Software Engineer & Tech Trainer [![Hits](https://hits.sh/github.com/HassanMehmood413.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c)](https://hits.sh/github.com/HassanMehmood413/) 
 
 <h2><b>Empowering Minds Through Code 🖥️</b></h2>
 
@@ -23,8 +23,6 @@
 
 <!-- <a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank"><img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="480" /></a> -->
 <!-- <i style="position: absolute; right : 1;top: 20%; z-index: 3">Saylani Mass IT Training Program</i> -->
-<img align="right" alt=""  src="./Images/Ahmad.gif" width="490"  />
-</a>	
 
 
  <!--## Some Community Projects & Resources
@@ -119,36 +117,32 @@ puzzles.
     <td align='center'>
         <img src="./Images/express-js.png" alt="Express-JS"  width="150px" height="100px">
     </td>
-</tr>
-<tr>
-    <td align='center'>
+	<td align='center'>
         <img src="./Images/html.webp" alt="HTML"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="./Images/css2.png" alt="CSS"  width="150px" height="100px">
     </td>
+</tr>
+<tr>
     <td align='center'>
         <img src="./Images/vs-code.jpg" alt="VS-CODE"  width="150px" height="100px">
     </td>
-</tr>
-<tr>
-    <td align='center'>
+<td align='center'>
         <img src="./Images/Github.png" alt="Github"  width="150px" height="100px">
     </td>
-</tr>
-<tr>
-    <td align='center'>
+	<td align='center'>
         <img src="./Images/bootstrap.png" alt="Bootstrap 5"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="./Images/linux.png" alt="Linux"  width="150px" height="100px">
     </td>
+	<td align='center'>
+        <img src="./Images/C.png" alt="C"  width="150px" height="100px">
+    </td>
 </tr>
 
 <tr>
-    <td align='center'>
-        <img src="./Images/C.png" alt="C"  width="150px" height="100px">
-    </td>
     <td align='center' width="190">
         <img src="./Images/C++.png" alt="C++"  width="150px" height="100px">
     </td>
@@ -171,9 +165,9 @@ puzzles.
 ## Connect with Me 🤝
 
 <p align="center">
-<a href="https://www.ahmad-jajja.com"><img src="https://img.shields.io/badge/-ahmadjajja.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ahmad-jajja"><img src="https://img.shields.io/badge/-Ahmad%20Jajja-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ahmadjajja86@gmail.com"><img src="https://img.shields.io/badge/-ahmadjajja86@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://https://hassanmehmood0.vercel.app/"><img src="https://img.shields.io/badge/-HassanMehmood.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hassan-mehmood-01a3a9247/"><img src="https://img.shields.io/badge/-Hassan%20Mehmood-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ihassan463m@gmail.com"><img src="https://img.shields.io/badge/-ihassan463m@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
   
 
@@ -187,6 +181,31 @@ puzzles.
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=HassanMehmood413&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
+
+
+
+## COMPLETED INTERNATIONAL HACKATHONS🥇:
+<p float="left">
+  <a href="https://lablab.ai/event/ibm-watsonx-challenge/blue-mind-hackers/techease" target="_blank">
+    <img src="https://storage.googleapis.com/lablab-static-eu/images/events/clyyg9s36000f357erj4ytsnm/clyyg9s36000f357erj4ytsnm_imageLink_143zw03r1.jpg" width="390">
+  </a>
+  <a href="https://github.com/HassanMehmood413/GenAi_Hackathon-back-">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF11OYYBSFzygPE3sSBNAZtFGsy_7tMUk2nw&s" width="390">
+  </a>
+  <a href="https://github.com/umarwar/TechEase">
+     <img src="https://i.ibb.co/5WJ62Rp/Screenshot-2024-09-11-110157.png" width="390">
+  </a
+   <a href="https://github.com/danishmustafa86/AI-AGENT">
+     <img src="https://i.ibb.co/Xb7btv7/Screenshot-2024-09-16-072758.png" width="390">
+  </a
+</p>
+
+
+<hr/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
+</p>
+<hr/>
 
 <!-- # Github Contributions
 <h4 align="center">Isometric view of contributions in the last year.</h4>
