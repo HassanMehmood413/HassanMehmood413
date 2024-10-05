@@ -1,14 +1,12 @@
 
-# Software Engineer & Tech Trainer [![Hits](https://hits.sh/github.com/Ahmadjajja.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c)](https://hits.sh/github.com/Ahmadjajja/) 
+# Software Engineer & Tech Trainer [![Hits](https://hits.sh/github.com/Ahmadjajja.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c)](https://hits.sh/github.com/HassanMehmood413/) 
 
 <h2><b>Empowering Minds Through Code 🖥️</b></h2>
-<!-- <div style="width: 80%; margin: 0 auto">
-<a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank"><img align="right" alt="" style="margin-top: 30px;" src="./Images/Ahmad.gif"/></a> 
-</div>  -->
 
 
 
-<!-- # Hi there, I'm Ahmad Jajja 👋. -->
+
+<!-- # Hi there, I'm Hassan Mehmood 👋. -->
 
 
 
