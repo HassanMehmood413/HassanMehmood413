@@ -198,6 +198,12 @@ puzzles.
    <a href="https://github.com/danishmustafa86/AI-AGENT">
      <img src="https://i.ibb.co/Xb7btv7/Screenshot-2024-09-16-072758.png" width="390">
   </a
+  <a href="https://github.com/HassanMehmood413/AI-Audio-Assistant">
+     <img src=https://i.ibb.co/4d8GCBv/Screenshot-2024-10-12-085615.png" width="390">
+  </a
+
+
+   
 </p>
 
 
