@@ -167,7 +167,7 @@
 ## Connect with Me 🤝
 
 <p align="center">
-<a href="https://www.hassanmehmood0.vercel.app"><img src="https://img.shields.io/badge/-HassanMehmood.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="hassanmehmood0.vercel.app"><img src="https://img.shields.io/badge/-HassanMehmood.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hassan-mehmood-01a3a9247/"><img src="https://img.shields.io/badge/-Hassan%20Mehmood-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ihassan463m@gmail.com"><img src="https://img.shields.io/badge/-ihassan463m@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
