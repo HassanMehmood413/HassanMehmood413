@@ -67,7 +67,7 @@
 - **@Meta**: Participated in Meta Hacker Cup 2024, have a look → **[**👀**](https://github.com/HassanMehmood413/Meta_Hacker_Cup-2024-)**.
 - **@[Typing Speed](https://www.linkedin.com/posts/hassan-mehmood-01a3a9247_%F0%9D%90%93%F0%9D%90%B2%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%92%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%94%F0%9D%90%A9%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E-assalam-u-allikum-activity-7246426571517943808-R69q?utm_source=share&utm_medium=member_desktop)** More than 80WPM.
 
-puzzles.
+
 <!-- - 📫 How to reach me **ahmadjajja86@gmail.com** -->
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
