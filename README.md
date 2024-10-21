@@ -204,6 +204,13 @@
      <img src=https://i.ibb.co/4d8GCBv/Screenshot-2024-10-12-085615.png" width="390">
   </a
 
+  <a href="https://github.com/HassanMehmood413/AI_Emotions_Analysis">
+     <img src="https://i.ibb.co/F00H0km/Screenshot-2024-10-21-235934.png" width="390">
+  </a
+
+  <a href="https://github.com/HassanMehmood413/AI-blogs">
+     <img src="https://i.ibb.co/HKsdSvt/Screenshot-2024-10-22-000235.png" width="390">
+  </a
 
    
 </p>
