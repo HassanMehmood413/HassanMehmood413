@@ -192,27 +192,27 @@
 ## COMPLETED INTERNATIONAL HACKATHONS🥇:
 <p float="left">
   <a href="https://lablab.ai/event/ibm-watsonx-challenge/blue-mind-hackers/techease" target="_blank">
-    <img src="https://storage.googleapis.com/lablab-static-eu/images/events/clyyg9s36000f357erj4ytsnm/clyyg9s36000f357erj4ytsnm_imageLink_143zw03r1.jpg" width="390">
+    <img src="https://storage.googleapis.com/lablab-static-eu/images/events/clyyg9s36000f357erj4ytsnm/clyyg9s36000f357erj4ytsnm_imageLink_143zw03r1.jpg" width="390" height="205">
   </a>
   <a href="https://github.com/HassanMehmood413/GenAi_Hackathon-back-">
-     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF11OYYBSFzygPE3sSBNAZtFGsy_7tMUk2nw&s" width="390">
+     <img src="https://i.ibb.co/hmMfv5L/Hack-This-Fall-36-Hours-Virtual-2024.png" width="390" height="205">
   </a>
   <a href="https://github.com/umarwar/TechEase">
-     <img src="https://i.ibb.co/5WJ62Rp/Screenshot-2024-09-11-110157.png" width="390">
+     <img src="https://i.ibb.co/5WJ62Rp/Screenshot-2024-09-11-110157.png" width="390" height="205">
   </a
    <a href="https://github.com/danishmustafa86/AI-AGENT">
-     <img src="https://i.ibb.co/Xb7btv7/Screenshot-2024-09-16-072758.png" width="390">
+     <img src="https://i.ibb.co/Xb7btv7/Screenshot-2024-09-16-072758.png" width="390" height="205">
   </a
   <a href="https://github.com/HassanMehmood413/AI-Audio-Assistant">
-     <img src=https://i.ibb.co/4d8GCBv/Screenshot-2024-10-12-085615.png" width="390">
+     <img src=https://i.ibb.co/4d8GCBv/Screenshot-2024-10-12-085615.png" width="390" height="205">
   </a
 
   <a href="https://github.com/HassanMehmood413/AI_Emotions_Analysis">
-     <img src="https://i.ibb.co/F00H0km/Screenshot-2024-10-21-235934.png" width="390">
+     <img src="https://i.ibb.co/F00H0km/Screenshot-2024-10-21-235934.png" width="390" height="205">
   </a
 
   <a href="https://github.com/HassanMehmood413/AI-blogs">
-     <img src="https://i.ibb.co/HKsdSvt/Screenshot-2024-10-22-000235.png" width="390">
+     <img src="https://i.ibb.co/HKsdSvt/Screenshot-2024-10-22-000235.png" width="390" height="205">
   </a
 
    
