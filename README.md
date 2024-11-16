@@ -171,6 +171,8 @@
 <a href="https://hassanmehmood0.vercel.app/"><img src="https://img.shields.io/badge/-HassanMehmood.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hassan-mehmood-01a3a9247/"><img src="https://img.shields.io/badge/-Hassan%20Mehmood-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ihassan463m@gmail.com"><img src="https://img.shields.io/badge/-ihassan463m@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Hassan_Leigons/" target="_blank"><img src="https://img.shields.io/badge/-Hassan%20Mehmood-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+<a href="https://lablab.ai/u/@hassan_mehmood517" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
 </p>
   
 
