@@ -65,7 +65,8 @@
 - If you want to see how I provide training to my students @ICODEGURU, have a look → **[**👀**]()**.
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@hassan_mehmood517) in multiple AI International Hackathons with a global team of six.
 - **@MLH (Major League Hacking)**: Participated in ***Hack This Fall 36 Hours Virtual 2024*** Hackathon with a global team of four. 
-- **@Meta Hacker Cup**: Participated in Meta Hacker Cup 2024, have a look → **[**👀**](https://github.com/HassanMehmood413/Meta_Hacker_Cup-2024-)**.
+- **@Meta Hacker Cup**: Participated in Meta Hacker Cup 2024 where Me and my team tackled complex problems and solve them , have a look → **[**👀**](https://github.com/HassanMehmood413/Meta_Hacker_Cup-2024-)**.
+- **@UC Berkeley Coding Competition**: Participated in UC Berkeley Competition where I solved work with International Engineers and solve complex problems, have a look -> **[**👀**](https://github.com/HassanMehmood413/UC_Berkeley_Coding_Competition_2024)**
 - **@[Typing Speed](https://www.linkedin.com/posts/hassan-mehmood-01a3a9247_%F0%9D%90%93%F0%9D%90%B2%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%92%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%94%F0%9D%90%A9%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E-assalam-u-allikum-activity-7246426571517943808-R69q?utm_source=share&utm_medium=member_desktop)** More than 80WPM.
 
 
