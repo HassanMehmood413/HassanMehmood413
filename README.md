@@ -63,7 +63,7 @@
 - **@[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**: Trained 2000+ students to learn programming and software engineering skills.x-->
 - Solved 450+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/Hassan_Leigons/)**.
 - **@[iCodeGuru](https://docs.google.com/spreadsheets/d/1pFgYTINa8UvwjXza8UkaSrelRbJes-bH/edit?gid=1332900718#gid=1332900718)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
-- If you want to see how I provide training to my students @ICODEGURU, have a look → **[**👀**]()**.
+- If you want to see how I provide training to my students @ICODEGURU, have a look → **[**👀**](https://github.com/HassanMehmood413/My_All_Lectures-ICodeGuru-)**.
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@hassan_mehmood517) in multiple AI International Hackathons with a global team of six.
 - **@MLH (Major League Hacking)**: Participated in ***Hack This Fall 36 Hours Virtual 2024*** Hackathon with a global team of four. 
 - **@Meta Hacker Cup**: Participated in Meta Hacker Cup 2024 where Me and my team tackled complex problems and solve them , have a look → **[**👀**](https://github.com/HassanMehmood413/Meta_Hacker_Cup-2024-)**.
