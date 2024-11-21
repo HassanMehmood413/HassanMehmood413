@@ -62,7 +62,7 @@
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184212040717131778/) at CS50x Puzzle Day 2024 by solving 9/9 complex
 - **@[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**: Trained 2000+ students to learn programming and software engineering skills.x-->
 - Solved 450+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/Hassan_Leigons/)**.
-- **@[iCodeGuru](https://docs.google.com/spreadsheets/d/1pFgYTINa8UvwjXza8UkaSrelRbJes-bH/edit?gid=1332900718#gid=1332900718)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
+- **@[iCodeGuru](https://github.com/HassanMehmood413/My_All_Lectures-ICodeGuru-)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
 - If you want to see how I provide training to my students @ICODEGURU, have a look → **[**👀**](https://github.com/HassanMehmood413/My_All_Lectures-ICodeGuru-)**.
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@hassan_mehmood517) in multiple AI International Hackathons with a global team of six.
 - **@MLH (Major League Hacking)**: Participated in ***Hack This Fall 36 Hours Virtual 2024*** Hackathon with a global team of four. 
