@@ -61,7 +61,7 @@
 - **@Stanford University**: [Selected](https://www.linkedin.com/feed/update/urn:li:activity:7186385467846639620/) as a Section Leader to teach Python to 100+ international students, then **[promoted to Section Leader Mentor](https://www.linkedin.com/posts/ahmad-jajja_stanfordabrcodeabrinabrplaceabrlearnings-activity-7195142429073633281-zNhV/?utm_source=share&utm_medium=member_desktop)** to provide one-on-one support.
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184212040717131778/) at CS50x Puzzle Day 2024 by solving 9/9 complex
 - **@[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**: Trained 2000+ students to learn programming and software engineering skills.x-->
-- Solved 450+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/Hassan_Leigons/)**.
+- Solved 500+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/Hassan_Leigons/)**.
 - **@[iCodeGuru](https://github.com/HassanMehmood413/My_All_Lectures-ICodeGuru-)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
 - If you want to see how I provide training to my students @ICODEGURU, have a look → **[**👀**](https://github.com/HassanMehmood413/My_All_Lectures-ICodeGuru-)**.
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@hassan_mehmood517) in multiple AI International Hackathons with a global team of six.
