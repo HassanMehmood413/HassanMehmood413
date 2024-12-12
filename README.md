@@ -219,6 +219,10 @@
      <img src="https://i.ibb.co/HKsdSvt/Screenshot-2024-10-22-000235.png" width="390" height="205">
   </a
 
+<a href="https://github.com/HassanMehmood413/AI-blogs">
+     <img src="https://i.ibb.co/JvBXmvP/Screenshot-2024-12-12-104630.png"" width="390" height="205">
+  </a
+
    
 </p>
 
