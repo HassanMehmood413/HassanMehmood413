@@ -61,14 +61,15 @@
 - **@Stanford University**: [Selected](https://www.linkedin.com/feed/update/urn:li:activity:7186385467846639620/) as a Section Leader to teach Python to 100+ international students, then **[promoted to Section Leader Mentor](https://www.linkedin.com/posts/ahmad-jajja_stanfordabrcodeabrinabrplaceabrlearnings-activity-7195142429073633281-zNhV/?utm_source=share&utm_medium=member_desktop)** to provide one-on-one support.
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184212040717131778/) at CS50x Puzzle Day 2024 by solving 9/9 complex
 - **@[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**: Trained 2000+ students to learn programming and software engineering skills.x-->
-- Solved 500+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/Hassan_Leigons/)**.
+- **@[Leetcode](https://leetcode.com/u/Hassan_Leigons/)** Solved 500+ Data Structures & Algorithms problems on Leetcode.
 - **@[iCodeGuru](https://github.com/HassanMehmood413/My_All_Lectures-ICodeGuru-)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
-- If you want to see how I provide training to my students @ICODEGURU, have a look → **[**👀**](https://github.com/HassanMehmood413/My_All_Lectures-ICodeGuru-)**.
-- **@lablab.ai**: [Participated](https://lablab.ai/u/@hassan_mehmood517) in multiple AI International Hackathons with a global team of six.
-- **@MLH [Major League Hacking](https://github.com/HassanMehmood413/Orbit-Rangers)**: Participated in ***Hack This Fall 36 Hours Virtual 2024*** Hackathon with a global team of four. 
-- **@[Meta Hacker Cup](https://github.com/HassanMehmood413/Meta_Hacker_Cup-2024-)**: Participated in Meta Hacker Cup 2024 where Me and my team tackled complex problems and solve them , have a look → **[**👀**](https://github.com/HassanMehmood413/Meta_Hacker_Cup-2024-)**.
-- **@[UC Berkeley Coding Competition](https://github.com/HassanMehmood413/UC_Berkeley_Coding_Competition_2024)**: Participated in UC Berkeley Competition where I work with International Engineers and solve complex problems, have a look -> **[**👀**](https://github.com/HassanMehmood413/UC_Berkeley_Coding_Competition_2024)**
-- **@[Typing Speed](https://www.linkedin.com/posts/hassan-mehmood-01a3a9247_%F0%9D%90%93%F0%9D%90%B2%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%92%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%94%F0%9D%90%A9%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E-assalam-u-allikum-activity-7246426571517943808-R69q?utm_source=share&utm_medium=member_desktop)** More than 80WPM.
+- If you want to see how I provide training to my students @**[ICodeGuru](https://icode.guru/)**.
+- **See My Training** → **[**👀**](https://github.com/HassanMehmood413/My_All_Lectures-ICodeGuru-)**.
+- **@[LabLab.ai](https://lablab.ai/u/@hassan_mehmood517)**: Participated in multiple AI International Hackathons with a global team of six.
+- **@[Major League Hacking](https://github.com/HassanMehmood413/Orbit-Rangers)**: Participated in ***Hack This Fall 36 Hours Virtual 2024*** Hackathon with a global team of four. 
+- **@[Meta Hacker Cup](https://github.com/HassanMehmood413/Meta_Hacker_Cup-2024-)**: Participated in Meta Hacker Cup **2024** where Me and my team tackled complex problems and solve them.
+- **@[UC Berkeley Coding Competition](https://github.com/HassanMehmood413/UC_Berkeley_Coding_Competition_2024)**: Participated in UC Berkeley Competition  **2024** where I work with International Engineers and solve complex problems.
+- **@[Typing Speed](https://www.linkedin.com/posts/hassan-mehmood-01a3a9247_%F0%9D%90%93%F0%9D%90%B2%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%92%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%94%F0%9D%90%A9%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E-assalam-u-allikum-activity-7246426571517943808-R69q?utm_source=share&utm_medium=member_desktop)** More than 88WPM (Words Per Minute).
 
 
 <!-- - 📫 How to reach me **ahmadjajja86@gmail.com** -->
