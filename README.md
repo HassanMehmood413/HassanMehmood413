@@ -195,7 +195,7 @@
 
 
 ## COMPLETED INTERNATIONAL HACKATHONS🥇:
-<p float="left">
+<p align="center">
   <a href="https://github.com/HassanMehmood413/Orbit-Rangers">
      <img src="https://i.ibb.co/hmMfv5L/Hack-This-Fall-36-Hours-Virtual-2024.png" width="390" height="205">
   </a>
