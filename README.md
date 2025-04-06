@@ -4,64 +4,7 @@
 <h2><b>Empowering Minds Through Code 🖥️</b></h2>
 
 
-
-
-
-<!-- # Hi there, I'm Hassan Mehmood 👋. -->
-
-
-
-<!-- ##  -->
-
-<!-- ## Learn with Ahmad Jajja :mailbox_with_mail: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wanna see glimpses of how I train? Click below ⬇️ -->
-<!-- <div >
-  <b style="display: inline-block; margin-right: 20px; font-size: 2.5em; ">Learn with Ahmad Jajja 📬</b>
-  
-  
-  <b style="display: inline-block;font-size: 1.5em;">Wanna see glimpses of how I train? Click on the picture!</b>
-</div> -->
-
-
-<!-- <a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank"><img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="480" /></a> -->
-<!-- <i style="position: absolute; right : 1;top: 20%; z-index: 3">Saylani Mass IT Training Program</i> -->
-
-
- <!--## Some Community Projects & Resources
-
-| Project :octocat:                                                                                           | Issues :bug:                                                                                                                                                                                                         | Open PRs :bell:                                                                                                                                                                                        | Closed PRs :fire:                                                                                                                                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**Tech Books**](https://github.com/Ahmadjajja/LearnTechBooks)                                              | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Learn-Blockchain-in-3-months?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/LearnTechBooks/issues)                             | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/LearnTechBooks?style=flat&logo=github)](https://github.com/Ahmadjajja/LearnTechBooks/pulls)                                          | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/LearnTechBooks?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/LearnTechBooks/pulls?q=is%3Apr+is%3Aclosed)                                         |
-| [**Awesome Python Projects**](https://github.com/Ahmadjajja/Awesome-Python-Projects)                        | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Awesome-Python-Projects?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Awesome-Python-Projects/issues)                         | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/Awesome-Python-Projects?style=flat&logo=github)](https://github.com/Ahmadjajja/Awesome-Python-Projects/pulls)                        | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Awesome-Python-Projects?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Awesome-Python-Projects/pulls?q=is%3Apr+is%3Aclosed)                       |
-| [**Python For Ethical Hacking**](https://github.com/Ahmadjajja/Python-For-Ethical-Hacking/)                 | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Python-For-Ethical-Hacking?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/Python-For-Ethical-Hacking/issues)                   | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/Python-For-Ethical-Hacking?style=flat&logo=github)](https://github.com/Ahmadjajja/Python-For-Ethical-Hacking/pulls)                  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Python-For-Ethical-Hacking?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Python-For-Ethical-Hacking/pulls?q=is%3Apr+is%3Aclosed)                 |
-| [**Learn Blockchain in 3 months**](https://github.com/Ahmadjajja/Learn-Blockchain-in-3-months)              | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Learn-Blockchain-in-3-months?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/Learn-Blockchain-in-3-months/issues)               | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/Learn-Blockchain-in-3-months?style=flat&logo=github)](https://github.com/Ahmadjajja/Learn-Blockchain-in-3-months/pulls)              | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Learn-Blockchain-in-3-months?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Learn-Blockchain-in-3-months/pulls?q=is%3Apr+is%3Aclosed)             |
-| [**Learn-Data-Science-in-3-months**](https://github.com/Ahmadjajja/Learn-Data-Science-in-3-months)          | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Learn-Data-Science-in-3-months?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/Learn-Data-Science-in-3-months/issues)           | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/Learn-Data-Science-in-3-months?style=flat&logo=github)](https://github.com/Ahmadjajja/Learn-Data-Science-in-3-months/pulls)          | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Learn-Data-Science-in-3-months?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Learn-Data-Science-in-3-months/pulls?q=is%3Apr+is%3Aclosed)         |
-| [**Learn_Machine_Learning_in_5_Months**](https://github.com/Ahmadjajja/Learn_Machine_Learning_in_5_Months/) | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/-Learn_Machine_Learning_in_5_Months?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/-Learn_Machine_Learning_in_5_Months/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/-Learn_Machine_Learning_in_5_Months?style=flat&logo=github)](https://github.com/Ahmadjajja/Learn_Machine_Learning_in_5_Months/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Learn_Machine_Learning_in_5_Months?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Learn_Machine_Learning_in_5_Months/pulls?q=is%3Apr+is%3Aclosed) |
-   ## Consistency👨‍💻
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadjajja&" alt="ahmadjajja" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadjajja&show_icons=true&locale=en&layout=compact" alt="ahmadjajja" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadjajja&show_icons=true&locale=en" alt="ahmadjajja" /></p>  -->
-<!-- <img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="58%"/> 
-
-| TECH SESSIONS @SMIT                                                                                         |
-| :---------------------------------------------------------------------------------------------------------- |
-| [AI_n_DataScience](https://github.com/Ahmadjajja/AI_n_DataScience) (Current)                                |
-| [GenAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current)                                     |
-| [Full_Stack_Development_1.0](https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7) (Completed)          |
-| [Backend_Development_1.0](https://github.com/Ahmadjajja/Backend_Development.git) (Completed)                |
-| [Web Designing Bootcamp 1.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_A) (Completed)        |
-| [Web Designing Bootcamp 2.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_B) (Completed)        |
-| [Frontend_Web_Development_1.0](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Completed)                    |
-| [Frontend_Mobile_Development_1.0](https://github.com/Ahmadjajja/Mobile_Application_Development) (Completed) |
-| **TECH SESSIONS @iCodeGuru**                                                                                    |
-| [DSA(LeetCode)_Volunteer_Teaching](https://github.com/Ahmadjajja/LeetCode_Volunteer_Teaching) (Completed)     |
-| [ML_and_its-privacy-implications](https://github.com/Ahmadjajja/Machine-Learning_and_its-privacy-implications) (Completed)             |
-
-- Co-Founder & Dev Lead @[EcoFactor](https://ecofactorsite.netlify.app/).
-- **@lablab.ai**: [Winner](https://www.linkedin.com/feed/update/urn:li:activity:7176624410651504641/) of an International Hackathon(Unhallucinate Challange).
-- **@Stanford University**: [Selected](https://www.linkedin.com/feed/update/urn:li:activity:7186385467846639620/) as a Section Leader to teach Python to 100+ international students, then **[promoted to Section Leader Mentor](https://www.linkedin.com/posts/ahmad-jajja_stanfordabrcodeabrinabrplaceabrlearnings-activity-7195142429073633281-zNhV/?utm_source=share&utm_medium=member_desktop)** to provide one-on-one support.
-- **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184212040717131778/) at CS50x Puzzle Day 2024 by solving 9/9 complex
-- **@[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**: Trained 2000+ students to learn programming and software engineering skills.x-->
-- **@[Leetcode](https://leetcode.com/u/Hassan_Leigons/)** Solved 500+ Data Structures & Algorithms problems on Leetcode.
+- **@[Leetcode](https://leetcode.com/u/Hassan_Leigons/)** Solved 550+ Data Structures & Algorithms problems on Leetcode.
 - **@[iCodeGuru](https://github.com/HassanMehmood413/My_All_Lectures-ICodeGuru-)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
 - If you want to see how I provide training to my students @**[ICodeGuru](https://icode.guru/)**.
 - **See My Training** → **[**👀**](https://github.com/HassanMehmood413/My_All_Lectures-ICodeGuru-)**.
@@ -74,7 +17,6 @@
 - **@[Typing Speed](https://www.linkedin.com/posts/hassan-mehmood-01a3a9247_%F0%9D%90%93%F0%9D%90%B2%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%92%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%94%F0%9D%90%A9%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E-assalam-u-allikum-activity-7246426571517943808-R69q?utm_source=share&utm_medium=member_desktop)** More than 88WPM (Words Per Minute).
 
 
-<!-- - 📫 How to reach me **ahmadjajja86@gmail.com** -->
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
 
