@@ -3,7 +3,7 @@
 
 <h2><b>Empowering Minds Through Code 🖥️</b></h2>
 
-
+- **@[Standford Code In Place 25'](https://www.linkedin.com/posts/hassan-mehmood413_stanfordcip2025-sectionleader-teachingcode-activity-7316630528353275904-CvE3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0autYBDWMLUgrU35ZTKZlWjbKtYVD0RLw)** Selected as Section Leader at Standford Code In Place 2025.
 - **@[Leetcode](https://leetcode.com/u/Hassan_Leigons/)** Solved 550+ Data Structures & Algorithms problems on Leetcode.
 - **@[iCodeGuru](https://github.com/HassanMehmood413/My_All_Lectures-ICodeGuru-)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
 - If you want to see how I provide training to my students @**[ICodeGuru](https://icode.guru/)**.
