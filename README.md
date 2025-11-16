@@ -135,7 +135,7 @@
   <div>
     <h3><u>👀 Glances</u></h3>
     <ul>
-      <li>Cloud Native Agentic AI Engineer</li>
+      <li>Software Engineer</li>
       <li>Ship AI-first apps: multi-agent flows, RAG, Integrations</li>
       <li>Design the workflow first, build later</li>
     </ul>
@@ -265,6 +265,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
 </p>
 <hr/>
+
 
 
 
