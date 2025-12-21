@@ -262,7 +262,9 @@
 
 <hr/>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
+  <em>"You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future."</em>
+  <br/>
+  <strong>— Steve Jobs</strong>
 </p>
 <hr/>
 
