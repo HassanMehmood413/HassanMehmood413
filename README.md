@@ -266,7 +266,14 @@
   <br/>
   <strong>— Steve Jobs</strong>
 </p>
+
+<p align="center">
+  <em>"Waiting For Your Time, While Working On Yourself, You must have to leave things you love, you thought to stayed in your life forever , for yourself, It hurts, But You can keep yourself calm by this though, that you are not like others, You have a PURPOSE!!"</em>
+  <br/>
+  <strong>— HM</strong>
+</p>
 <hr/>
+
 
 
 
