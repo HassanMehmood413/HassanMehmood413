@@ -221,6 +221,37 @@
 
 
 
+
+<h2 align="center">👨‍🏫 Teaching & Mentorship</h2>
+
+<div align="center">
+
+| Platform | Role | Impact |
+|:--------:|:----:|:------:|
+| **Stanford Code in Place** | Section Leader | 15+ students/section from 10+ different cities |
+| **iCodeGuru** | DSA Instructor (Volunteer) | 500+ students taught |
+| **Pak Angels** | ML/AI Workshop Lead | 200+ attendees |
+| **Topmate** | Career Mentor (Top 5%) | 21+ sessions completed |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Resource | Link |
+|:--------:|:----:|
+| 📖 DSA Lectures | [GitHub Repository](https://github.com/HassanMehmood413/My_All_Lectures-ICodeGuru-) |
+| 🎥 Hugging Face Workshop - Part 1 | [YouTube](https://www.youtube.com/live/BGYUFq5274g) |
+| 🎥 Hugging Face Workshop - Part 2 | [YouTube](https://youtu.be/4gPhVVLUyEM) |
+| 🎥 How to Win Hackathons | [Facebook](https://www.facebook.com/watch/?v=1235743434971472) |
+
+</div>
+
+<br/>
+
+
+
 ## COMPLETED INTERNATIONAL HACKATHONS🥇:
 <p align="center">
   <a href="https://github.com/HassanMehmood413/Orbit-Rangers">
@@ -273,6 +304,8 @@
   <strong>— HM</strong>
 </p>
 <hr/>
+
+
 
 
 
