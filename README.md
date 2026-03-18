@@ -2,7 +2,7 @@
 # Software Engineer & Tech Trainer [![Hits](https://hits.sh/github.com/HassanMehmood413.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c)](https://hits.sh/github.com/HassanMehmood413/) 
 
 
-> *Empowering minds through code & curiosity* 🖥️✨  
+> *Empowering minds through code & curiosity* 🖥️✨.  
 > Building generative-AI & multi-agent apps, crafting full-stack solutions and mentoring the next wave of engineers.
 
 ---
