@@ -37,7 +37,7 @@
       <div align="center">
         <!-- ============  TECH STACK GRID  ============ -->
         <table width="100%">
-          <!-- ░░░ ROW 1 ░░░ -->
+          <!--- ░░░ ROW 1 ░░░ --->
           <tr>
             <!-- Front-End -->
             <td align="center" valign="top">
@@ -146,7 +146,7 @@
       <li>Volunteer mentor @ iCodeGuru with clear roadmaps</li>
       <li>Feedback that’s actionable, kind, and specific</li>
     </ul>
-    <h3><u>📌 Work With Me</u></h3>
+    <h3><u>📌Work With Me</u></h3>
     <ul>
       <li>Connect on <a href="https://www.linkedin.com/in/hassan-mehmood-01a3a9247/">LinkedIn</a>.</li>
       <li>Email me at ihassan463m@gmail.com.</li>
