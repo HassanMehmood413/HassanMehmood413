@@ -158,7 +158,34 @@
   </tr>
 </table>
 
+<h2 align="center">🚀 Projects I've Built (& Still Building)</h2>
 
+<p align="center">35+ projects shipped across AI agents, full-stack apps & developer tools, and not stopping anytime soon.</p>
+
+| # | Project | What it does |
+|---|---------|-------------|
+| ∞ | STILL BUILDING | With the same passion and thrust |
+| 20 | **Threadly AI** | Solo-bootstrapped PM platform where AI runs your standups, priorities, and sprint planning for you. |
+| 19 | **TechFlow AI** | Voice-driven WhatsApp storefront, browse, compare, and buy products without ever opening a browser. |
+| 18 | **Argus-Agent** | Hooks into Loki + Prometheus, watches your infra, and yells at your team on Slack before things break. |
+| 17 | **VibeArchitect CLI** | One terminal to spin up apps, chatbots, and multi-agent pipelines, text or voice, your call. |
+| 16 | **AgentForce** | Agents that argue, cross-examine, and research together like a live TV panel debate. |
+| 15 | **TinyStudio** | Describe an app in plain English, get a full-stack codebase back, Lovable-style, built from scratch. |
+| 14 | **AutoShip** | Scrapes Amazon listings, reformats them, and publishes to eBay on autopilot, zero manual work. |
+| 13 | **LegalBuddy** | Drop a 200 page contract, get back the 12 clauses that actually matter, with plain-English summaries. |
+| 12 | **Global Buyer Scout** | Finds your next B2B leads by scraping markets, scoring intent, and building outreach-ready profiles. |
+| 11 | **Clinic Que** | Text `JOIN` to a number, get ticket `Q7` back, SMS-based virtual queue for free pop-up clinics. |
+| 10 | **Qubic Smart Guide** | Feeds C++ smart contracts through static analysis, security audit, test planning, and auto-documentation. |
+| 9 | **Examinator** | WhatsApp bot that drills you on real past exam questions, filter by topic, year, or random shuffle. |
+| 8 | **Email Trigger Agent** | LangGraph pipeline that reads your inbox, classifies intent, drafts replies, and pings you on WhatsApp. |
+| 7 | **Cyclova** | Pregnancy tracking + menstrual health in one app, built for women in communities with zero clinic access. |
+| 6 | **Spot Connect** | Predicts network failures before they happen using hyperdimensional computing + time-series analysis. |
+| 5 | **Congify AI** | Upload a brain MRI, get an Alzheimer's risk assessment in minutes, skip the hospital queue entirely. |
+| 4 | **Malama AI** | Point your camera at a skin condition, LLaMA 3.3 70B + fine-tuned DINOv2 tells you what it sees. |
+| 3 | **Feelbetter Buddy** | Reads the emotional tone in your text, emails, or voice, then responds like a therapist who actually listens. |
+| 2 | **Stem Exploratorium** | Learning STEM platform for children with real lab's experiment tool|
+
+---
 
 <!-- ──────────────────────────────────────────────────────────── -->
 <!--                     🤝 CONNECT WITH ME                       -->
