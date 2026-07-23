@@ -1,7 +1,7 @@
 [![committers.top badge](https://user-badge.committers.top/pakistan/HassanMehmood413.svg)](https://user-badge.committers.top/pakistan/HassanMehmood413)
-<p align="center">
+<!-- <p align="center">
   <img src="./Images/banner.png" alt="Hassan Mehmood — AI & Backend Engineer" width="100%">
-</p>
+</p> -->
 
 
 # Software Engineer & Tech Trainer [![Hits](https://hits.sh/github.com/HassanMehmood413.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c)](https://hits.sh/github.com/HassanMehmood413/) 
