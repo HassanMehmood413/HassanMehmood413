@@ -273,10 +273,11 @@
 <div align="center">
 
 | Resource | Link |
-|:--------:|:----:|
+|:--------:|:----:| 
 | 📖 DSA Lectures | [GitHub Repository](https://github.com/HassanMehmood413/My_All_Lectures-ICodeGuru-) |
-| 🎥 Hugging Face Workshop - Part 1 | [YouTube](https://www.youtube.com/live/BGYUFq5274g) |
-| 🎥 Hugging Face Workshop - Part 2 | [YouTube](https://youtu.be/4gPhVVLUyEM) |
+| 📖 IELTS Lectures | [Youtube](https://docs.google.com/spreadsheets/d/1yBLoG2HLaSK4049EbX3NKPrGURE1-tEoZ5X8R9HyLcg/edit?gid=1295405553#gid=1295405553)
+| 🎥 Hugging Face Workshop | [YouTube](https://www.youtube.com/live/BGYUFq5274g) |
+| 🎥 Agentic AI Workshop | [YouTube](https://www.youtube.com/live/kHUx3yBPe6I?si=TMABjf9FYKb-iKhx) |
 | 🎥 How to Win Hackathons | [Facebook](https://www.facebook.com/watch/?v=1235743434971472) |
 
 </div>
